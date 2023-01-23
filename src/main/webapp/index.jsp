@@ -1,5 +1,14 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0;">
+  <link rel="stylesheet" href="main.css">
+  <title>HTML Portfolio</title>
+</head>
 <body>
-<h2>Hello World!...Haii This version 8.1 of Venky War project file after jenkins webhook is succefully done</h2>
+
+  Welcome to the HTML Portfolio Project
+
 </body>
 </html>
